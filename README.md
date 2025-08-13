@@ -17,5 +17,5 @@ Incluye:
 
 ## Video
 
-La explicación completa de los archivos y del proceso de creación está publicada en YouTube: [Ver en YouTube](https://youtu.be/b0W88BcaPxM)
+La explicación completa de los archivos y del proceso de creación está publicada en YouTube: [Video](https://youtu.be/b0W88BcaPxM)
 
